@@ -74,6 +74,9 @@ An interactive **Timeline** linked to the Order Date field allows users to filte
 
 All pivot charts, slicers and timeline are combined into a single Dashboard sheet — a one-page view designed to be opened by someone who isn't comfortable digging through raw data, giving them an instant snapshot of sales performance by product, geography, and customer.
 
+<img width="1126" height="543" alt="image" src="https://github.com/user-attachments/assets/35f25241-bc90-4666-9d60-78eceb21f6c2" />
+
+
 🚀 **How to Use**
 
 - Download coffeeOrdersData_with_dashboard.xlsx and open it in Excel (2021 or Microsoft 365 recommended for full XLOOKUP/slicer support)
